@@ -1,0 +1,108 @@
+body{
+  color: #c4b6b6;
+  margin:0;
+  padding:70px 120px;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  color: #52057b;
+  font-size: 53px;
+  line-height: 0.9;
+  margin: 0;
+  font-family: 'Fjalla One', sans-serif;
+  letter-spacing: 4px;
+}
+
+h2 {
+  margin: 0;
+  display: block;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 95%;
+}
+
+h3 {
+  margin: 0;
+  display: block;
+  color: #ad62aa;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 95%;
+}
+
+.main {
+  width:40%;
+  line-height: 1.5;
+  display: inline-block;
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.photo {
+  width: 40px;
+  border-radius: 40px;
+  float:left;
+  margin-right: 10px;
+}
+
+.block {
+  width: 40%;
+  display: inline-block;
+  position: absolute;
+  right: 7%;
+  font-weight: bolder;
+  color: #52057b;
+}
+
+.one {
+  background-color: #f8f1f1;
+  width: 75%;
+  margin: 10px 0 15px 0;
+  border-radius: 10px;
+}
+
+.two {
+  background-color: #f8f1f1;
+  width: 75%;
+  margin: 15px 0 15px 50px;
+  border-radius: 10px;
+}
+
+.three {
+  background-color: #f8f1f1;
+  width: 75%;
+  margin: 15px 0 15px 100px;
+  border-radius: 10px;
+}
+
+.colton {
+  background-color: #561f55;
+  width: 23%;
+  margin: 50px 0 15px;
+  border-radius: 10px;
+  padding: 20px 20px 20px;
+  position: absolute;
+  top:300px;
+}
+
+.irene {
+  background-color: #561f55;
+  width: 23%;
+  margin: 50px 0 15px;
+  border-radius: 10px;
+  padding: 20px 20px 20px;
+  position: absolute;
+  left:490px;
+  top:325px;
+}
+
+.anne {
+  background-color: #561f55;
+  width: 23%;
+  margin: 50px 0 15px;
+  border-radius: 10px;
+  padding: 20px 20px 20px;
+  position: absolute;
+  left:880px;
+  top: 350px;
+}
